@@ -22,4 +22,14 @@
     <style name="Theme.Grab.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.Grab.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+        <style name="customButton" parent="Base.Widget.AppCompat.Button">
+            <item name="android:background">@drawable/button_custom_gradient</item>
+            <item name="android:textStyle">bold</item>
+            <item name="android:textColor">#FFFFFF</item>
+            <item name="android:typeface">serif</item>
+        </style>
+
+
 </resources>

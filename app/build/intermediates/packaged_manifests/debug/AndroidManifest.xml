@@ -24,7 +24,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.Grab" >
         <activity
-            android:name="com.mrhgroups.grab.MainActivity"
+            android:name="com.mrhgroups.grab.ui.main.auth.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/Theme.Grab.NoActionBar" >
             <intent-filter>

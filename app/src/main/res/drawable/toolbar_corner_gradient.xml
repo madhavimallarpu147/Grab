@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:anroid="http://schemas.android.com/apk/res/android"
+    anroid:shape="rectangle">
+    <corners
+        anroid:radius="0dp">
+    </corners>
+    <gradient
+        anroid:angle="315"
+        anroid:startColor="#F529DD6B"
+        anroid:endColor="#27858E"/>
+</shape>

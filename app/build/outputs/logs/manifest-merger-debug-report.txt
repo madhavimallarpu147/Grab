@@ -5,13 +5,14 @@ INJECTED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:2:1-24:12
 INJECTED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:2:1-24:12
 INJECTED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\728d248150abebe3b54138b8e466e2d0\navigation-fragment-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\2cbca42a78d61d3116e4d867ef71ae91\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\21e066d1c593a7d203664f02a2efba0d\jetified-fragment-ktx-1.2.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\eb59eb30fa7e26652fa6ba0711b1ef36\navigation-ui-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0805a9481c552d9b4199d8acbe89cbef\navigation-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0b8c70163273b49169fd29afc1dc917f\navigation-common-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\7f1fa099926339feff66f056835eecc1\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0b8c70163273b49169fd29afc1dc917f\navigation-common-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\2d0969fa6152c985618655273f5ba553\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.work:work-runtime-ktx:2.4.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\3c47fdbd9cd3c3ffb3f646bb77a8a56d\work-runtime-ktx-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\67c8e4c1643b4f3acf9824744a610d39\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\2b63f2740df82d3f01944b3e66620bc0\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\dfb3f2dda61cd6a451d1ff23c5484f96\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\ec658e0cb5e639e71d9b0362dd9c94b2\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
@@ -25,9 +26,9 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hig
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\099016dddd819b2b4d739e65902bcbeb\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0374e4f6c0146dad3627e6a932104d52\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\54041571dcb8ef6c42ab26ed52e90e8e\work-runtime-2.4.0\AndroidManifest.xml:17:1-143:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\4cdc4d15bd8e40fa5dedb6f3c6c1ced4\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\9fe9c2b77ada1e06daf34652d4e7bda8\navigation-fragment-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\5fdfc00df57d5b628e781268855b8f21\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\872b864b8966c16b14b67c94dd63ee76\fragment-1.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\4cdc4d15bd8e40fa5dedb6f3c6c1ced4\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\b94b83a5d7f1d475bf66620e43058245\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0c2802306bb87693689e92aadd05386c\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\ce4321a1fd31ae49fa85aa036c0a7fe9\customview-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -39,19 +40,19 @@ MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\highminds\.gr
 MERGED from [androidx.core:core:1.3.2] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\3414d4f8c6d2974484da138475b51c4f\core-1.3.2\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\9a632407174e76d252cf735e6fa5479e\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\95ced69cafe6805b58e9dd0dffd59649\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\7c2cad3e78ad42de7cf077768b385948\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\c4370e0c50f1f4a32750d649409af4a7\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\bdfd8522cbfd2cd65f4e5e2b18653eda\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\7c2cad3e78ad42de7cf077768b385948\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\bc63d783bf76b4c773dcc8b2d5e52cf8\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\c4b33c168b769c7215bbedfee1a435e9\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\070daf01c7a04bb8c0578426efd3f844\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\f641c38244d449d9fab7c15ca55f240a\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\9be5127cda9d9942f2c816100b092f2a\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\988785254883d0455949a354e27f4b1c\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\471922250ef12ae0d0c5a1035d583d5d\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\bc63d783bf76b4c773dcc8b2d5e52cf8\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\c4b33c168b769c7215bbedfee1a435e9\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\68741d218894fa3622caacd6da135a36\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\3804315680e5e6fc5f28d2df4fd0a6d5\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\f0995e59098d4d05d686d82278eaa905\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\67edcd56c619de0defb91fc37085cc6d\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\471922250ef12ae0d0c5a1035d583d5d\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\988785254883d0455949a354e27f4b1c\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\2d9959f3a90288d3a16c8d3481853e50\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
 INJECTED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:2:1-24:12
 INJECTED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:2:1-24:12
@@ -98,14 +99,14 @@ MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\highminds\.gradle\caches
 		ADDED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:11:9-42
-activity#com.mrhgroups.grab.MainActivity
+activity#com.mrhgroups.grab.ui.main.auth.MainActivity
 ADDED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:12:9-21:20
 	android:label
 		ADDED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:14:13-45
 	android:theme
 		ADDED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:15:13-58
 	android:name
-		ADDED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:13:13-54
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
@@ -122,20 +123,22 @@ INJECTED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml
 INJECTED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\728d248150abebe3b54138b8e466e2d0\navigation-fragment-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\728d248150abebe3b54138b8e466e2d0\navigation-fragment-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\2cbca42a78d61d3116e4d867ef71ae91\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\2cbca42a78d61d3116e4d867ef71ae91\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\21e066d1c593a7d203664f02a2efba0d\jetified-fragment-ktx-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\21e066d1c593a7d203664f02a2efba0d\jetified-fragment-ktx-1.2.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\eb59eb30fa7e26652fa6ba0711b1ef36\navigation-ui-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\eb59eb30fa7e26652fa6ba0711b1ef36\navigation-ui-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0805a9481c552d9b4199d8acbe89cbef\navigation-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0805a9481c552d9b4199d8acbe89cbef\navigation-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0b8c70163273b49169fd29afc1dc917f\navigation-common-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0b8c70163273b49169fd29afc1dc917f\navigation-common-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\7f1fa099926339feff66f056835eecc1\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\7f1fa099926339feff66f056835eecc1\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0b8c70163273b49169fd29afc1dc917f\navigation-common-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0b8c70163273b49169fd29afc1dc917f\navigation-common-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\2d0969fa6152c985618655273f5ba553\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\2d0969fa6152c985618655273f5ba553\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.work:work-runtime-ktx:2.4.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\3c47fdbd9cd3c3ffb3f646bb77a8a56d\work-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.work:work-runtime-ktx:2.4.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\3c47fdbd9cd3c3ffb3f646bb77a8a56d\work-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\67c8e4c1643b4f3acf9824744a610d39\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\67c8e4c1643b4f3acf9824744a610d39\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\2b63f2740df82d3f01944b3e66620bc0\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\2b63f2740df82d3f01944b3e66620bc0\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\dfb3f2dda61cd6a451d1ff23c5484f96\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
@@ -162,12 +165,12 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\highminds\.gradle\ca
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0374e4f6c0146dad3627e6a932104d52\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\54041571dcb8ef6c42ab26ed52e90e8e\work-runtime-2.4.0\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\54041571dcb8ef6c42ab26ed52e90e8e\work-runtime-2.4.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\4cdc4d15bd8e40fa5dedb6f3c6c1ced4\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\4cdc4d15bd8e40fa5dedb6f3c6c1ced4\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\9fe9c2b77ada1e06daf34652d4e7bda8\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\9fe9c2b77ada1e06daf34652d4e7bda8\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\5fdfc00df57d5b628e781268855b8f21\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\5fdfc00df57d5b628e781268855b8f21\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\872b864b8966c16b14b67c94dd63ee76\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\872b864b8966c16b14b67c94dd63ee76\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\4cdc4d15bd8e40fa5dedb6f3c6c1ced4\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\4cdc4d15bd8e40fa5dedb6f3c6c1ced4\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\b94b83a5d7f1d475bf66620e43058245\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\b94b83a5d7f1d475bf66620e43058245\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\0c2802306bb87693689e92aadd05386c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
@@ -190,32 +193,32 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\highminds\.gra
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\9a632407174e76d252cf735e6fa5479e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\95ced69cafe6805b58e9dd0dffd59649\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\95ced69cafe6805b58e9dd0dffd59649\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\7c2cad3e78ad42de7cf077768b385948\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\7c2cad3e78ad42de7cf077768b385948\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\c4370e0c50f1f4a32750d649409af4a7\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\c4370e0c50f1f4a32750d649409af4a7\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\bdfd8522cbfd2cd65f4e5e2b18653eda\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\bdfd8522cbfd2cd65f4e5e2b18653eda\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\7c2cad3e78ad42de7cf077768b385948\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\7c2cad3e78ad42de7cf077768b385948\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\bc63d783bf76b4c773dcc8b2d5e52cf8\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\bc63d783bf76b4c773dcc8b2d5e52cf8\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\c4b33c168b769c7215bbedfee1a435e9\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\c4b33c168b769c7215bbedfee1a435e9\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\070daf01c7a04bb8c0578426efd3f844\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\070daf01c7a04bb8c0578426efd3f844\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\f641c38244d449d9fab7c15ca55f240a\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\f641c38244d449d9fab7c15ca55f240a\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\9be5127cda9d9942f2c816100b092f2a\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\9be5127cda9d9942f2c816100b092f2a\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\988785254883d0455949a354e27f4b1c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\988785254883d0455949a354e27f4b1c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\471922250ef12ae0d0c5a1035d583d5d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\471922250ef12ae0d0c5a1035d583d5d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\bc63d783bf76b4c773dcc8b2d5e52cf8\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\bc63d783bf76b4c773dcc8b2d5e52cf8\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\c4b33c168b769c7215bbedfee1a435e9\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\c4b33c168b769c7215bbedfee1a435e9\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\68741d218894fa3622caacd6da135a36\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\68741d218894fa3622caacd6da135a36\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\3804315680e5e6fc5f28d2df4fd0a6d5\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\3804315680e5e6fc5f28d2df4fd0a6d5\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\f0995e59098d4d05d686d82278eaa905\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\f0995e59098d4d05d686d82278eaa905\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\67edcd56c619de0defb91fc37085cc6d\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\67edcd56c619de0defb91fc37085cc6d\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\471922250ef12ae0d0c5a1035d583d5d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\471922250ef12ae0d0c5a1035d583d5d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\988785254883d0455949a354e27f4b1c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\988785254883d0455949a354e27f4b1c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\2d9959f3a90288d3a16c8d3481853e50\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\highminds\.gradle\caches\transforms-2\files-2.1\2d9959f3a90288d3a16c8d3481853e50\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 INJECTED from E:\projects2020\Grab\app\src\main\AndroidManifest.xml

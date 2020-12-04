@@ -1578,18 +1578,23 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button_custom_gradient
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable edittext_custom_background
+drawable facebook
+drawable heading_custom_gradient
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable linkedin
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -1620,8 +1625,13 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable test_custom_background
+drawable toolbar_corner_gradient
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable twitter
+font berkshireswash_regular
+font piazzolla_bitalic
+font sansitaswashed_black
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1715,10 +1725,10 @@ id blocking
 id bottom
 id bounce
 id buttonPanel
-id button_first
 id button_second
 id cache_measures
 id cancel_button
+id card_view
 id center
 id center_horizontal
 id center_vertical
@@ -1800,6 +1810,8 @@ id graph_wrap
 id group_divider
 id grouping
 id groups
+id guideline
+id guideline1
 id hideable
 id home
 id homeAsUp
@@ -1810,6 +1822,9 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
+id imageView2
+id imageView3
 id info
 id invisible
 id italic
@@ -1825,6 +1840,7 @@ id line3
 id linear
 id listMode
 id list_item
+id login_button
 id masked
 id message
 id middle
@@ -1924,6 +1940,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id signUp
 id sin
 id skipCollapsed
 id slide
@@ -1967,9 +1984,14 @@ id test_radiobutton_app_button_tint
 id text
 id text2
 id textEnd
+id textInputLayoutName
+id textInputLayoutPassword
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView1
+id textView2
+id textView3
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -1978,7 +2000,6 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
-id textview_first
 id textview_second
 id time
 id title
@@ -2002,6 +2023,8 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id view
+id view2
 id view_offset_helper
 id visible
 id visible_removing_fragment_view_tag
@@ -2939,6 +2962,7 @@ style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
+style customButton
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth
